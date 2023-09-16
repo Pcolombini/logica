@@ -19,6 +19,3 @@
         </section>
     </main>
 
-</body>
-
-</html>
