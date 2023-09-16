@@ -26,3 +26,17 @@
 .input {
     margin: 16px;
 }
+
+.btn {
+    display: block;
+    float: left;
+    width: 50%;
+    margin: auto;
+    padding: 8px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.list {
+    margin: 16px 32px;
+}
