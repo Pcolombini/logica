@@ -16,7 +16,7 @@
                 <p>
                 Faça um algoritmo que calcule o reajuste de um salário, utilize os seguintes dados:
                 </p>
-                <p style="border: 1px solid black;" >
+                <p style="border: 1px solid black; text-align: center;" >
                 salário  = 1.000,00
                 reajuste = 15%
                 </p>

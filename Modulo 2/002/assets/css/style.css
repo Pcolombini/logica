@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Mirza', serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.title {
+    text-align: center;
+}
+
+.ex {
+    max-width: 720px;
+    width: 100%;
+    margin: 8px auto;
+}
+
+.form {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 16px;
+    padding: 8px;
+
+}
+
+.resultado {
+    font-size: 18pt;
+    font-weight: 700;
+    display: block;
+    width: 100%;
+    float: left;
+    margin: 22px;
+    /* margin: 100%; */
+    text-align: center;
+}
+
+.input {
+    margin: 16px;
+}
+
+.btn {
+    display: block;
+    width: 50%;
+    margin: auto;
+    padding: 8px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.list {
+    margin: 16px 32px;
+}
