@@ -39,10 +39,14 @@
     margin: 16px;
 }
 
+.imputs {
+    float: right;
+}
+
 .btn {
     display: block;
     width: 50%;
-    margin: auto;
+    margin: 4px auto;
     padding: 8px;
     cursor: pointer;
     border-radius: 8px;
