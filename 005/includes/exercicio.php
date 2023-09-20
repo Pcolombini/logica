@@ -44,7 +44,7 @@ function media($valor1, $valor2, $valor3)
 {
     $media = ($valor1 + $valor2 + $valor3) / 3;
 
-    return $media;
+    return number_format($media,2);
 }
 
 $media = media($valor1, $valor2, $valor3);
